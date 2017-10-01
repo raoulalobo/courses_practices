@@ -4,7 +4,7 @@
   "description": "livre Beginning Functional JavaScript",
   "main": "index.js",
   "scripts": {
-    "executer": "babel-node functional-playground/play.js --presets es2015-node5",
+    "executer": "babel-node labs/functions.js --presets es2015-node5",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "raoul alobo",
